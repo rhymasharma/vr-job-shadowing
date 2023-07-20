@@ -1,0 +1,11 @@
+Model Information:
+* title:	Hospital Table - MC Model
+* source:	https://sketchfab.com/3d-models/hospital-table-mc-model-c229ec7fe42440f1847ea69b13082328
+* author:	RigidStudios (https://sketchfab.com/RigidStudios)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Hospital Table - MC Model" (https://sketchfab.com/3d-models/hospital-table-mc-model-c229ec7fe42440f1847ea69b13082328) by RigidStudios (https://sketchfab.com/RigidStudios) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

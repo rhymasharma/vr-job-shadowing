@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <script src="https://aframe.io/releases/1.4.0/aframe.min.js"></script>
+</head>
+<body>
+    <a-scene renderer="colorManagement: true">
+        <a-entity gltf-model="/src/assets/hospital/hosp_bed/scene.gltf" scale="0.1 0.1 0.1" rotation="0 90 0"></a-entity>
+        <a-entity gltf-model="/src/assets/hospital/patient/scene.gltf" scale="0.01 0.01 0.01" rotation="" position="0.03912 0.68463 -0.08007"></a-entity>
+        <a-entity gltf-model="/src/assets/hospital/table/scene.gltf" scale="0.04211 0.04204 -0.02598" rotation="0 145 0" position="1.06862 0.33835 -0.41602"></a-entity>
+        <a-entity gltf-model="/src/assets/hospital/monitor/scene.gltf" scale="0.01 0.01 0.01" rotation="0 -36.90421158437633 0" position="1.12717 0.58737 -0.49206"></a-entity>
+        <a-entity gltf-model="/src/assets/hospital/doctor/scene.gltf" scale="0.01 0.01 0.01" rotation="0 59.814501980477424 0" position="-0.5481 0.05517 0.292"></a-entity>
+        <a-entity gltf-model="/src/assets/hospital/machine/scene.gltf" rotation="" position="-1.40 -0.0117 -1.10954"></a-entity>
+        <a-entity gltf-model="/src/assets/hospital/stand/scene.gltf" rotation="" scale="0.01 0.01 0.01" position="0.616 0.002 -1.373"></a-entity>
+        <a-entity gltf-model="/src/assets/hospital/back/back_structure.glb" rotation="" position="-0.09989 2.10737 -2.0469" scale="0.76141 0.78886 0.863"></a-entity>
+        <a-entity gltf-model="/src/assets/hospital/sofa/scene.gltf" rotation="0 177.88735256985694 0" scale="0.2 0.2 0.1" position="3.37237 -0.0062 2.4898"></a-entity>
+        <a-entity gltf-model="/src/assets/hospital/wheelchair/scene.gltf" rotation="0 -140.28298655983076 0" scale="0.017 0.017 0.017" position="2.83984 0.08791 -0.36148"></a-entity>
+        <a-entity glft-model="/src/assets/hospital/hosp_curtain1/scene.gltf" rotation ="" scale="" position=""></a-entity>
+        <a-entity glft-model="/src/assets/hospital/hosp_curtain2/scene.gltf" rotation ="" scale="" position=""></a-entity>
+        <!-- <a-sky color="black"></a-sky>  -->
+        
+        <a-box color="#b39694" depth="2" height="4" width="0.5" position="-4.49879 2.73475 0.85469" rotation="" scale="0.149 1.366 3.457" material="" geometry=""></a-box>
+        <a-box color="#b39694" depth="2" height="4" width="0.5" position="4.147 2.735 0.91014" rotation="" scale="0.149 1.366 3.45677" material="" geometry=""></a-box>
+        <a-box color="#b39694" depth="2" height="4" width="0.5" position="-0.157 2.74 -2.534" rotation="0 90 0" scale="0.149 1.366 4.30446" material="" geometry=""></a-box>
+        <a-plane src="#CCC" height="20" width="20" rotation="-90 0 0"></a-plane>
+    </a-scene>
+</body>
+</html>
