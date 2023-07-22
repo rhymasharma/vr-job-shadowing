@@ -1,0 +1,11 @@
+Model Information:
+* title:	Medical Bottles
+* source:	https://sketchfab.com/3d-models/medical-bottles-fcfd3137648447c488af45aa8aed42b7
+* author:	Christian-Gomez (https://sketchfab.com/Christian-Gomez)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Medical Bottles" (https://sketchfab.com/3d-models/medical-bottles-fcfd3137648447c488af45aa8aed42b7) by Christian-Gomez (https://sketchfab.com/Christian-Gomez) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

@@ -1,0 +1,11 @@
+Model Information:
+* title:	Medical Scissors 1
+* source:	https://sketchfab.com/3d-models/medical-scissors-1-38885408402e4a368053de6961fe59a1
+* author:	2301253 (https://sketchfab.com/2301253)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Medical Scissors 1" (https://sketchfab.com/3d-models/medical-scissors-1-38885408402e4a368053de6961fe59a1) by 2301253 (https://sketchfab.com/2301253) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
