@@ -1,0 +1,11 @@
+Model Information:
+* title:	Courtroom Judge Desk
+* source:	https://sketchfab.com/3d-models/courtroom-judge-desk-ebbe8da43d8e44b8bade2f73b1dda677
+* author:	clarkelsmith (https://sketchfab.com/clarkelsmith)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Courtroom Judge Desk" (https://sketchfab.com/3d-models/courtroom-judge-desk-ebbe8da43d8e44b8bade2f73b1dda677) by clarkelsmith (https://sketchfab.com/clarkelsmith) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
